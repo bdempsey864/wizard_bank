@@ -1,4 +1,4 @@
 class Person 
-  def initialize
+  def initialize(name, cash)
   end
 end
